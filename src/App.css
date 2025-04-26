@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.hero-section {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  padding: 100px 0;
+}
